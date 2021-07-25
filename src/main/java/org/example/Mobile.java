@@ -21,4 +21,7 @@ public class Mobile {
 
 
     }
+    public String display(String mob){
+        return mob+" new model";
+    }
 }
